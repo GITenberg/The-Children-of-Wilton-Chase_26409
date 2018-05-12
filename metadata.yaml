@@ -1,0 +1,38 @@
+_repo: The-Children-of-Wilton-Chase_26409
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26409-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Thomas, Elizabeth
+    - Meade, Mrs. L. T.
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Lillie
+    - Mead, L. T.
+    - Meade, Elizabeth Thomasina
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2008-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26409'
+  lccn: 08010182
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Children of Wilton Chase
+url: http://www.gutenberg.org/ebooks/26409
